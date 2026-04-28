@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bellabigail.salinastech.com/sitemap.xml
